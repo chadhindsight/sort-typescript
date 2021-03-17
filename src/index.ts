@@ -1,6 +1,6 @@
 class Sorter {
     constructor(public collection: number[]) { }
-
+    // to be updated
     sort(): void {
         const { length } = this.collection;
 
