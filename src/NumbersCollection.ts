@@ -1,5 +1,5 @@
 import { Sorter } from './Sorter';
-
+// Numbers collection
 export class NumbersCollection extends Sorter {
     constructor(public data: number[]) {
         super();
