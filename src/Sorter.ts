@@ -15,4 +15,3 @@ export abstract class Sorter {
         }
     }
 }
-// NB: review the Sorter logic
