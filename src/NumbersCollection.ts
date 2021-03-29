@@ -19,3 +19,4 @@ export class NumbersCollection extends Sorter {
         this.data[rightIndex] = leftHand;
     }
 }
+// Futile!
