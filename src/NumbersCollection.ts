@@ -1,5 +1,5 @@
 import { Sorter } from './Sorter';
-// Numbers collection
+//Sorter gets used in a way unique to the numbers collection 
 export class NumbersCollection extends Sorter {
     constructor(public data: number[]) {
         super();
@@ -19,4 +19,3 @@ export class NumbersCollection extends Sorter {
         this.data[rightIndex] = leftHand;
     }
 }
-// Futile!
